@@ -13,7 +13,5 @@ Navigate to the **backend** directory and install dependencies:
 cd server
 npm install
 
-
-```sh
-cd server
+cd ../client
 npm install
